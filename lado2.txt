@@ -1,0 +1,4 @@
+5 Teko 60 30
+5 Toha 30 40
+5 Tiko 80 80
+5 Ahas 10 10
